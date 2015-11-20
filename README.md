@@ -35,20 +35,6 @@
 </blockquote>
 </blockquote>
 
-<font size="4">I have&nbsp;multiple learning styles.&nbsp;</font>
-<div>
-<ul><li><font size="4">Interpersonal&nbsp;</font></li>
-<li><font size="4">Intrapersonal&nbsp;</font></li>
-<li><font size="4">Visual-spatial</font></li>
-<li><font size="4">Logical - Mathematical&nbsp;</font></li></ul>
-<div><font size="4"><b>Why is it accurate? Why is it wrong?</b></font></div>
-</div>
-<div><font size="4">It is accurate because I have seen by myself to be intrapersonal someone who likes to learn new things and make a connection with that new thing. I think that i may be some of the characteristics of interpersonal because yes I like to interact with people but not all the time, sometimes I tend to be by myself. One of the sample&nbsp;activities&nbsp;that&nbsp;is listed on the site after taking your test, it says that like to work in large groups. I think that I like workings in groups by usually no more than 3 to 4 people. I am visual because when it comes to learning certain things, I like to see it not hear it. I sometimes tend to draw pictures on the side of my notes. &nbsp;</font></div>
-<div><font size="4"><br>
-</font></div>
-<div dir="ltr"><br>
-</div>
-
 
 
 
