@@ -1,3 +1,14 @@
 # TEISHANA ANTOINE
 
 <img border="0" height="219" src="https://sites.google.com/a/lanierhs.org/csp-projects/home/women-in-tech.jpg" style="display:inline;float:left;margin:5px 10px 0px 0px" width="400">
+
+<p> My name is Teishana. I love watching marvel movies and sction. As long as I could remember, the animationin the movies always had me wandering how did they make that car fly in the air? How is it even possible that the building is moving? Those were the kind I would as my father. He would try to explain in a way that I can understand it, but really I loved asking him the question because of how he explains things. <p>
+
+<p> About About two years ago, my father was using a program called Second Life for an online class. Second Life is an online virtual world used by many professors and universities to teach people about 3D animation. When my father was doing a project but he was having trouble with the code so I offered to help without knowing anything about the program. The goal of the project was to make an avatar talk and move around. My father had already done the avatar and do the code but there was something wrong. As I sat looking at the lines of coding think what in the world did I get myself into. After sitting at the under for hours, then I realized that just two lines of code was missing that would allow the avatar to move. After fixing it, I realized that just by helping my father with one complex thing showed me that coding is what I want to learn more about  
+
+Now I attend school at Lanier High School and also in the CDAT ( Center for Design and Technology) academy. CDAT is the place where we can be creative with our interest on job with technology. I think CDAT is amazing because everyday I get to learn about something new in technology.I can be creative with the type of technology of my choose.  I have taken Introduction of Digital Tech (IDT). It class teaches about how do project and manage those properly with other team members. I have used many different software's and programs such as AutoDesk 3Ds Max, AutoDesk Inventor, HTML and CSS, Scratch, Earsketch, Google Fusion Tables, Microsoft Excel, Unity and movies making software programs. Feel free it take a look at the site: https://sites.google.com/a/lanierhs.org/teishana-antoine/ 
+
+Now that I am in tenth Grade, I am taking Computer Science Principles. I am looking forward to be learning new things and be doing 
+amazing project this year.  
+
+After high school, I want to earn my degree in computer science and engineering at Georgia Tech College. After college, I plan to get a job doing something that I enjoy doing every moment of the day. I want to make a difference in the world by using the technology of today and the future to help people in developing countries have more access to clean water everyday. One day, I want to change the way we think and see technology. I think that there is more to technology. 
