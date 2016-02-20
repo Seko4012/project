@@ -1,14 +1,119 @@
-# TEISHANA ANTOINE
+	body {
+		color:#000305;
+		font-size:87.5%;
+		font-family: Arial, 'Lucida Sna Unicode';
+		line-height:1.5;
+		text-align:left;
+	}
+	.body {
+		margin: 0 auto;
+		width:70%;
+		clear: both;
+	}
+	.mainheader img {
+		width: 30%;
+		height: 70%;
+		margin: 2% 0;
+	}
+	.mainheader nav {
+		background-color: #666;
+		height: 40px;
+		border-radius: 5px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+	}
+	.mainheader nav ul {
+		list-style: none;
+		margin: 0 auto;
+	}
+	.mainheader nav ul li {
+		float:left;
+		display: inline;
+	}
+	.mainheader nav a:link, .mainheader nav a:visited {
+		color: #FFF;
+		display: linline-block;
+		padding: 10px 25px;
+		height: 20px;
+	}
+	.mainheader nav a:hover, .mainheader nav a:active,
+	.mainheader nav .active a:link, .mainheader nav .active a:visited {
+		background-color: #CF5C3F;
+		text-shadow: none;
+	}
+	.mainheader nav ul li a {
+		border-radius: 5px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+	}
+	.maincontent {
+		line-height: 25px;
+		border-radius: 5px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		overflow: hidden;
+	}
+	.content {
+		wdith: 70%;
+		float: left;
+	}
+	.topcontent{
+		background-color:#778899;
+		border-radius: 5px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		padding: 3% 5%;
+		margin-top: 2%;
+	}
+	.bottomcontent {
+		background-color:#778899;
+		border-radius: 5px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		padding: 3% 5%
+		margin-top: 2%;
+	}
+		
 
-<img border="0" height="219" src="https://sites.google.com/a/lanierhs.org/csp-projects/home/women-in-tech.jpg" style="display:inline;float:left;margin:5px 10px 0px 0px" width="400">
+		
 
-<p> My name is Teishana. I love watching marvel movies and sction. As long as I could remember, the animationin the movies always had me wandering how did they make that car fly in the air? How is it even possible that the building is moving? Those were the kind I would as my father. He would try to explain in a way that I can understand it, but really I loved asking him the question because of how he explains things. <p>
+</style>
+<body class="body">
+	
+	<header class="mainheader"
+	   <img src="logo.jpg">
+	   <nav><ul>
+	      <li class="active"><a href="a">home</a></li>
+	      
+	   </ul></nav>
+	</header>
+	
+	<div class="maincontent">
+	  <div class="content">
 
-<p> About About two years ago, my father was using a program called Second Life for an online class. Second Life is an online virtual world used by many professors and universities to teach people about 3D animation. When my father was doing a project but he was having trouble with the code so I offered to help without knowing anything about the program. The goal of the project was to make an avatar talk and move around. My father had already done the avatar and do the code but there was something wrong. As I sat looking at the lines of coding think what in the world did I get myself into. After sitting at the under for hours, then I realized that just two lines of code was missing that would allow the avatar to move. After fixing it, I realized that just by helping my father with one simple thing can show me what I wanted to learn about in the future.</p>
+	   <article class"topcontent"
+		  <header>
+		  </header>
+		
+		  <content>
+			<p> Here at Lanier High School TSA club, we want everyone to learn something
+new and develop skills in different areas. However we also help our students develop their leadership
+skills for the work place in the future. In our club, the students have a variety of interest in different types of technologies</p>
 
- CDAT is the place where we can be creative with our interest on job with technology. I think CDAT is amazing because everyday I get to learn about something new in technology.I can be creative with the type of technology of my choose.  I have taken Introduction of Digital Tech (IDT). It class teaches about how do project and manage those properly with other team members. I have used many different software's and programs such as AutoDesk 3Ds Max, AutoDesk Inventor, HTML and CSS, Scratch, Earsketch, Google Fusion Tables, Microsoft Excel, Unity and movies making software programs. Feel free it take a look at the site: https://sites.google.com/a/lanierhs.org/teishana-antoine/ 
-
-Now that I am in tenth Grade, I am taking Computer Science Principles. I am looking forward to be learning new things and be doing 
-amazing project this year.  
-
-After high school, I want to earn my degree in computer science and engineering at Georgia Tech College. After college, I plan to get a job doing something that I enjoy doing every moment of the day. I want to make a difference in the world by using the technology of today and the future to help people in developing countries have more access to clean water everyday. One day, I want to change the way we think and see technology. I think that there is more to technology. </p>
+			<ul> 
+			   <li>Robotics building and programming</li>
+                        	<li> Engineering</li>
+                        	<li>Game Programming</li>
+                        	<li>Video Editing</li>
+                      		<li>And any other technology that they want love to learn about.</li>
+                   	</ul>
+			
+			<p>The student leadership is excepted to develop that club.
+If there is no leaders, no club. So students are expected to challenge themselves and take the lead.</p>
+		  </content>
+	     </article>
+	  </div>
+	</div>
+	
+</body>
+</html>
